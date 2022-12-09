@@ -25,7 +25,7 @@ id,churn
 24,no
 25,no
 26,no
-27,yes
+27,no
 28,no
 29,no
 30,no
@@ -67,7 +67,7 @@ id,churn
 66,no
 67,no
 68,no
-69,yes
+69,no
 70,no
 71,no
 72,no
@@ -90,7 +90,7 @@ id,churn
 89,no
 90,no
 91,no
-92,no
+92,yes
 93,no
 94,yes
 95,no
@@ -249,7 +249,7 @@ id,churn
 248,no
 249,no
 250,no
-251,no
+251,yes
 252,no
 253,no
 254,yes
@@ -268,7 +268,7 @@ id,churn
 267,no
 268,no
 269,yes
-270,no
+270,yes
 271,no
 272,no
 273,no
@@ -301,7 +301,7 @@ id,churn
 300,no
 301,no
 302,no
-303,no
+303,yes
 304,no
 305,no
 306,no
@@ -311,7 +311,7 @@ id,churn
 310,no
 311,no
 312,no
-313,no
+313,yes
 314,no
 315,no
 316,no
@@ -360,7 +360,7 @@ id,churn
 359,no
 360,no
 361,yes
-362,no
+362,yes
 363,yes
 364,no
 365,no
@@ -393,7 +393,7 @@ id,churn
 392,no
 393,no
 394,no
-395,yes
+395,no
 396,no
 397,no
 398,yes
@@ -469,7 +469,7 @@ id,churn
 468,no
 469,no
 470,no
-471,yes
+471,no
 472,no
 473,no
 474,no
@@ -481,7 +481,7 @@ id,churn
 480,no
 481,no
 482,no
-483,no
+483,yes
 484,no
 485,no
 486,no
@@ -544,7 +544,7 @@ id,churn
 543,no
 544,no
 545,no
-546,no
+546,yes
 547,no
 548,no
 549,no
@@ -627,7 +627,7 @@ id,churn
 626,no
 627,no
 628,no
-629,no
+629,yes
 630,no
 631,no
 632,no
@@ -643,14 +643,14 @@ id,churn
 642,no
 643,no
 644,no
-645,no
+645,yes
 646,yes
 647,no
 648,yes
 649,no
 650,no
 651,yes
-652,no
+652,yes
 653,no
 654,no
 655,no
@@ -663,13 +663,13 @@ id,churn
 662,no
 663,yes
 664,no
-665,no
+665,yes
 666,no
 667,no
 668,no
 669,no
 670,no
-671,no
+671,yes
 672,no
 673,no
 674,no
@@ -681,7 +681,7 @@ id,churn
 680,no
 681,no
 682,no
-683,yes
+683,no
 684,no
 685,yes
 686,no
@@ -725,7 +725,7 @@ id,churn
 724,no
 725,no
 726,no
-727,no
+727,yes
 728,no
 729,no
 730,no
@@ -740,7 +740,7 @@ id,churn
 739,yes
 740,no
 741,no
-742,no
+742,yes
 743,no
 744,no
 745,no
