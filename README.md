@@ -4,11 +4,11 @@ The dataset is available at
 (https://www.kaggle.com/competitions/customer-churn-prediction-2020)
 
 #### Code_with_imbalance
-This notebook containss all the models before dealing with classification imbalance
+This notebook contains all the models before dealing with classification imbalance
 
 
 #### Code_without_balance
-This notebook containss all the models after dealing with classification imbalance
+This notebook contains all the models after dealing with classification imbalance
 
 
 
